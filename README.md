@@ -141,7 +141,7 @@ fp-sos/
 ## Contributors
 
 - **Vinay B** - Software Development
-- **Srinivas S** - Hardware Designing
+- **Srinivas S** - Mechanical designing
 - **Vishwas** - UI designing
-- **Prashanth Kumar D** - Mechanical designing
+- **Sudeep G M** - Hardware Designing
 ---
