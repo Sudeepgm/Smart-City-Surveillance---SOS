@@ -140,8 +140,9 @@ fp-sos/
 
 ## Contributors
 
+- **Sudeep G M** - Hardware Designing
 - **Vinay B** - Software Development
 - **Srinivas S** - Mechanical designing
 - **Vishwas** - UI designing
-- **Sudeep G M** - Hardware Designing
+
 ---
